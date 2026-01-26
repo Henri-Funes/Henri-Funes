@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.canva.com/design/DAG_emEZno0/bA5hM_Nbx4REiU5RlAC0wQ/view?utm_content=DAG_emEZno0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h8371144d47" alt="terraria-banner" width="100%">
+  <img src="./Banner Youtube Pixel Art Neón Colorido.png" alt="terraria-banner" width="100%">
 </p>
 
 # ¡Hola! 👋
