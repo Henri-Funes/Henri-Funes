@@ -43,6 +43,10 @@ Tengo una base sólida en el desarrollo del lado del servidor y estoy en constan
 
 > ### 📁 https://github.com/Henri-Funes/Vault-DTE.git
 > Sistema empresarial de inteligencia fiscal que automatiza y centraliza el respaldo de facturas electrónicas. 
+
+
+> ### 📊 https://github.com/Henri-Funes/hermaco-LedgerOS
+>Sistema moderno de gestión contable y financiera para CENTRO INDUSTRIAL HERMACO, S.A. DE C.V.
 > * **Logro:** Reducción del 90% en tiempos de búsqueda administrativa.
 
 ---
